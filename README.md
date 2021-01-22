@@ -1,5 +1,5 @@
-# Portfolio Management
-This repository holds examples of code and data for the Portfolio Management course. The examples are organized by assignment, with each assignment getting its own folder.
+# Investment Management
+This repository holds examples of code and data for the Investment Management course. The examples are organized by assignment, with each assignment getting its own folder. The `1_labs_introduction` folder contains several introductory example to help you get started with Python and Google Colaboratory.
 
 ## Prereqs
 To work with the examples in this repository, you should be able to run Python code on your computer. You can install Python locally or use a web-based tool, such as Google Colab.
